@@ -9,3 +9,5 @@ abc
 abc❣️
 
     75086c8cc937a89ef5432ac5d3690413
+
+If you googled an MD5 hash function for AutoHotkey chances are it doesn't handle unicode characters
